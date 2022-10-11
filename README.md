@@ -1,2 +1,2 @@
 # genetic_algorithm
-fun little web app to demonstrate natural selection
+little web app to demonstrate the process of natural selection in your browser
